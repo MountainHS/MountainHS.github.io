@@ -1,10 +1,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: 겜돌이 연구소
 
 # Your name to show in the footer
-author: Some Person
+author: Mountain
 
 # --- List of links in the navigation bar --- #
 
@@ -34,10 +34,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "hsgood01@gmail.com"
+#  facebook: deanattali
+  github: MountainHS
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -62,12 +62,12 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+# Select which social network share links to show in posts  // 활성화하려면 밑의 5줄 주석 풀
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
